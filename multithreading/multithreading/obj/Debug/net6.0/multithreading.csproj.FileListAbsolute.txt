@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/bin/Debug/net6.0/multithreading
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/bin/Debug/net6.0/multithreading.deps.json
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/bin/Debug/net6.0/multithreading.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/bin/Debug/net6.0/multithreading.dll
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/bin/Debug/net6.0/multithreading.pdb
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/obj/Debug/net6.0/multithreading.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/obj/Debug/net6.0/multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/obj/Debug/net6.0/multithreading.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/obj/Debug/net6.0/multithreading.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/obj/Debug/net6.0/multithreading.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/obj/Debug/net6.0/multithreading.dll
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/obj/Debug/net6.0/refint/multithreading.dll
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/obj/Debug/net6.0/multithreading.pdb
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/obj/Debug/net6.0/multithreading.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/multithreading/multithreading/obj/Debug/net6.0/ref/multithreading.dll
